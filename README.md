@@ -5,10 +5,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Abhisheksaini-2728/LeetCode/tree/master/0016-3sum-closest) |
+| [0283-move-zeroes](https://github.com/Abhisheksaini-2728/LeetCode/tree/master/0283-move-zeroes) |
 ## Two Pointers
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Abhisheksaini-2728/LeetCode/tree/master/0016-3sum-closest) |
+| [0283-move-zeroes](https://github.com/Abhisheksaini-2728/LeetCode/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
 | ------- |
