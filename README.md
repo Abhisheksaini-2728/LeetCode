@@ -40,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/Abhisheksaini-2728/LeetCode/tree/master/0680-valid-palindrome-ii) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Abhisheksaini-2728/LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
