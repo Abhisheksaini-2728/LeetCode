@@ -48,5 +48,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/Abhisheksaini-2728/LeetCode/tree/master/0183-customers-who-never-order) |
 | [0595-big-countries](https://github.com/Abhisheksaini-2728/LeetCode/tree/master/0595-big-countries) |
 | [0620-not-boring-movies](https://github.com/Abhisheksaini-2728/LeetCode/tree/master/0620-not-boring-movies) |
+| [1068-product-sales-analysis-i](https://github.com/Abhisheksaini-2728/LeetCode/tree/master/1068-product-sales-analysis-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Abhisheksaini-2728/LeetCode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 <!---LeetCode Topics End-->
