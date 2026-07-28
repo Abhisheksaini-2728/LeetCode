@@ -56,4 +56,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1527-patients-with-a-condition](https://github.com/Abhisheksaini-2728/LeetCode/tree/master/1527-patients-with-a-condition) |
 | [1683-invalid-tweets](https://github.com/Abhisheksaini-2728/LeetCode/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Abhisheksaini-2728/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
+| [1873-calculate-special-bonus](https://github.com/Abhisheksaini-2728/LeetCode/tree/master/1873-calculate-special-bonus) |
 <!---LeetCode Topics End-->
