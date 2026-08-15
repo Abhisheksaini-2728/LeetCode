@@ -1,22 +1,14 @@
-class Solution: 
-    def twoSum(self,list_num,target):
-        list_num.sort()
-
+class Solution:
+    def twoSum(self, numbers: List[int], target: int) -> List[int]:
         left = 0
-        right = len(list_num)-1
+        right = len(numbers) - 1
 
         while left < right:
-            item = list_num[left] + list_num[right]
 
-            if item == target:
-
-                return [left + 1 , right + 1]
-
-            elif item > target:
-
-                right -= 1
-
-            else:
+            if numbers[left] + numbers[right] == target:
+                return [left + 1,right + 1]
+            elif numbers[left] + numbers[right] < target:
                 left += 1
-
-        return []
+            else:
+                right -= 1        
+        
