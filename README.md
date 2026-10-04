@@ -60,11 +60,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Abhisheksaini-2728/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Abhisheksaini-2728/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/Abhisheksaini-2728/LeetCode/tree/master/0541-reverse-string-ii) |
+| [0678-valid-parenthesis-string](https://github.com/Abhisheksaini-2728/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Abhisheksaini-2728/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Abhisheksaini-2728/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/Abhisheksaini-2728/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Abhisheksaini-2728/LeetCode/tree/master/0680-valid-palindrome-ii) |
 ## Database
 |  |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Abhisheksaini-2728/LeetCode/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Abhisheksaini-2728/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0678-valid-parenthesis-string](https://github.com/Abhisheksaini-2728/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Abhisheksaini-2728/LeetCode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Abhisheksaini-2728/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Recursion
@@ -166,4 +169,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Abhisheksaini-2728/LeetCode/tree/master/0056-merge-intervals) |
+## Stack
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/Abhisheksaini-2728/LeetCode/tree/master/0678-valid-parenthesis-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/Abhisheksaini-2728/LeetCode/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
